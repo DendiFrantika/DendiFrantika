@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm DendiFrantika</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [E-Library](https://github.com/DendiFrantika/elibrary.github.io)
+- 🔭 I’m currently working on **Junior Web Developer | QA Tester | IT Support**
 
 - 🌱 I’m currently learning **React, Laravel, REST API, Software Testing & Git**
+
+- 👯 I’m looking to collaborate on **Web Development Projects**
+
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1DaanxPfN40djzDP2aj2EzyO-zheHWkYH/view?usp=sharing](https://drive.google.com/file/d/1DaanxPfN40djzDP2aj2EzyO-zheHWkYH/view?usp=sharing)
 
 - 💬 Ask me about **React, PHP, Laravel, MySQL,HTML, Manual Testing**
 
 - 📫 How to reach me **Dendhi83@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XY9TVvW1U43J6Jtk1AcbEqROzo_V6FLy/view?usp=sharing](https://drive.google.com/file/d/1XY9TVvW1U43J6Jtk1AcbEqROzo_V6FLy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
